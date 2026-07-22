@@ -1,0 +1,27 @@
+# Build outputs
+build/
+*.exe
+*.dll
+*.o
+*.obj
+*.so
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.log
+*.tmp
