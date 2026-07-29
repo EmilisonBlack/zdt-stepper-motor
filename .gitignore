@@ -25,3 +25,7 @@ Thumbs.db
 # Temp
 *.log
 *.tmp
+
+# Binary / large files
+*.zip
+*.pdf
